@@ -1,0 +1,7 @@
+includes:
+  - vendor/marc-mabe/php-enum-phpstan/extension.neon
+
+parameters:
+    level: 8
+    paths:
+        - src
